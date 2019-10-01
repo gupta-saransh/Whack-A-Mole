@@ -6,3 +6,6 @@ This HTML5 game is created with simple JavaScript.
 
 It's a traditional carnival style whack-a-mole game with cartoon animation. 
 Play at http://saranshgupta.tech/Whack-A-Mole/
+
+
+SRG is god
