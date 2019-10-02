@@ -1,6 +1,6 @@
 # Whack-A-Mole
  
-This HTML5 game is created with simple JavaScript. 
+This HTML5 game is created with vanilla JavaScript. 
 
 ![ScreenShot](ss.JPG)
 
